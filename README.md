@@ -14,21 +14,21 @@ The core of this project lies in its ability to dissect complex loan data, ident
 This project is structured into three interconnected analytical dashboards:
 
 ### 1️⃣ 🏦 Loan Default Overview & Trends
-![Image](https://github.com/user-attachments/assets/3565bfef-0436-43ae-b8dc-0d5f28befd0b)
+![Image](https://github.com/user-attachments/assets/73ff2de5-3d61-4401-a360-06e4a45f81e3)
 Figure 1: Loan Default Overview & Trends
 - Identifies patterns and key drivers of loan defaults.
 - Visualizes default rates across dimensions like employment type and loan purpose.
 - Tracks trends over time, including Year-over-Year (YoY) changes.
 
 ### 2️⃣ 👥 Applicant Demographics & Financial Profile
-![Image](https://github.com/user-attachments/assets/f6530143-0c90-476d-9074-fe1e0ac24042)
+![Image](https://github.com/user-attachments/assets/441cde5c-fd44-4348-8e31-2de038c91911)
 Figure 2: Applicant Demographics & Financial Profile
 - Deep dive into applicant characteristics.
 - Analyzes links between demographics (age, education, marital status) and financial behavior (income, credit score, DTI).
 - Segments applicants to understand financial capacity and diversity.
 
 ### 3️⃣ 📈 Financial Risk Metrics & Advanced Analysis
-![Image](https://github.com/user-attachments/assets/c8937adb-2a4b-400a-8f50-f80f730f3ec9)
+![Image](https://github.com/user-attachments/assets/dedec18f-4e6b-4852-8152-2bed7ae9fb9b)
 Figure 3: Financial Risk Metrics & Advanced Analysis
 - Provides key financial indicators for risk assessment.
 - Calculates metrics like average and median loan amounts, YoY, and YTD trends.
