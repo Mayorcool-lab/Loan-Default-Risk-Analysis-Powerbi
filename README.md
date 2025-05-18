@@ -1,5 +1,6 @@
 # 🚀 Loan Default & Risk Analysis Power BI Showcase 📊
-Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMWZhMzYxODctOTg0ZC00ZWRkLTgzMWEtMTlkYzllZDliMTg0IiwidCI6IjVlN2I1ODA0LTEyZmYtNDM0OC1hODFlLWQ5MDAwNjM0MGM5NiJ9
+Dashboard: 
+🔗 **[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWZhMzYxODctOTg0ZC00ZWRkLTgzMWEtMTlkYzllZDliMTg0IiwidCI6IjVlN2I1ODA0LTEyZmYtNDM0OC1hODFlLWQ5MDAwNjM0MGM5NiJ9)**
 
 ## 🌟 Project Overview
 
